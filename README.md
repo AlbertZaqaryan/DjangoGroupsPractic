@@ -1,0 +1,2 @@
+# DjangoGroupsPractic
+python programmnig
